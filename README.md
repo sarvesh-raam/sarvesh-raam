@@ -7,7 +7,6 @@
 
 # Hi there, I'm Sarvesh Raam! 👋
 
-### AI & Data Engineer | B.Tech Artificial Intelligence @ SRM University | BS Data Science @ IIT Madras
 
 <br/>
 
@@ -21,14 +20,6 @@
 
 </div>
 
----
-
-### 🚀 About Me
-
-- 📚 I’m currently diving deep into **Agentic AI systems**, **Scalable Backend Architectures**, and **Advanced Computer Vision**.
-- 🏆 **Certified Agentforce Specialist** by Salesforce.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
