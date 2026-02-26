@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?user=sarvesh-raam&label=PROFILE+VIEWS&color=7b61ff&style=flat" alt="Profile Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarvesh-raam&count_bg=%237B61FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 
 <br/>
 
