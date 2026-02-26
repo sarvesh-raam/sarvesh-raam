@@ -8,15 +8,10 @@
 # Hi there, I'm Sarvesh Raam! 👋
 
 
-<br/>
-
-*I build systems that solve real problems — from vehicle trunk optimization to scalable automation pipelines. Always curious, always building and turning imagination into reality.* 🚀
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sarvesh-raam.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarveshraam)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarveshraam5@gmail.com)
+
 
 </div>
 
@@ -41,18 +36,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-raam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-raam&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh-raam&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages"/>
-</div>
 
 ---
 
