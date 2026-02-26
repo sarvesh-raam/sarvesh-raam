@@ -5,8 +5,7 @@
 
 <div align="center">
 
-# Hi there, I'm Sarvesh Raam! 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&height=70&lines=Building+Scalable+AI+Systems;Turning+Imagination+Into+Reality;Always+Curious,+Always+Building" alt="Typing SVG" /></a>
 
 
 <br/>
