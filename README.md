@@ -15,9 +15,10 @@
 </div>
 
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
 
-<p align="left">
+  <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -37,9 +38,8 @@
   <img src="https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
-</p>
-
-
+  </p>
+</div>
 
 ---
 
