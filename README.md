@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=sarvesh-raam&label=Profile%20Views&color=f400ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sarvesh-raam&label=PROFILE+VIEWS&color=7b61ff&style=for-the-badge" alt="Profile Views" />
 
 <br/>
 
