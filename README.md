@@ -25,9 +25,6 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently working as an **Automation & AI Intern** at **Tube Products of India** (Murugappa Group), applying AI to real-world operational challenges.
-- 🚗 Previously worked as a **Research Intern** at **Renault Nissan**, where I built *PackAssist* to optimize trunk space utilization.
-- 🎓 Pursuing a dual degree: **B.Tech in Artificial Intelligence** at SRM University and a **BS in Data Science** at IIT Madras.
 - 📚 I’m currently diving deep into **Agentic AI systems**, **Scalable Backend Architectures**, and **Advanced Computer Vision**.
 - 🏆 **Certified Agentforce Specialist** by Salesforce.
 
