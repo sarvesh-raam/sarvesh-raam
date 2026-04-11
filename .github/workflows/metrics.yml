@@ -16,6 +16,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_order: base.header, isocalendar, languages, base.activity, base.community, followup, lines, notable, people, achievements
+          config_padding: 0, 15 + 10%
           
           # Base Configuration
           repositories_affiliations: owner
