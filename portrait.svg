@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 -10 480 330">
 <style>
 text{font:4.61px ui-monospace,Consolas,"Courier New",monospace;white-space:pre}
 .light{fill:#24292f} .dark{display:none;fill:#c9d1d9}
