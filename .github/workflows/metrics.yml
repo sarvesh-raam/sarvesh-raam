@@ -64,6 +64,7 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
+          plugin_notable_from: all
 
           # ISO Calendar plugin
           plugin_isocalendar: yes
